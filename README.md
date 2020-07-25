@@ -1,6 +1,6 @@
 ### G'day from Australia 👋, I'm Oliver
 
-#### AWS Cloud Solution Architect, Coder
+#### AWS Partner Solution Architect, Coder, Lifelong Learner
 
 ![AWS Cloud SME](https://media-exp1.licdn.com/dms/image/C4D16AQEOURgAufolVA/profile-displaybackgroundimage-shrink_350_1400/0?e=1600905600&v=beta&t=oxBYCsKdaeeQB0c4yZgN5jOdgWf1b21yr7mH4gT2V1c)
 
