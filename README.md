@@ -1,6 +1,6 @@
 # G'day from Australia 👋, I'm Oliver
 
-## AWS Partner Solution Architect (GSI, APJ Lead), Coder, Lifelong Learner
+## AWS Senior Partner Solution Architect (GSI, APJ Lead), Coder, Lifelong Learner
 
 🛠 AWS, Infrastructure, Security 👨‍💻 C, Golang, Python, Rust 🏗 I’m currently building cool stuff with AWS Cloud 🌱 I’m constantly learning but currently focused on Machine Learning, Quantum Computing, Golang and Rust 💬 Ask me about AWS ☕️ Coffee Enthusiast ⚡ Fun fact: Cave Diver and Technical CCR Decompression Diver 😄 Pronouns: He/Him/His
 
